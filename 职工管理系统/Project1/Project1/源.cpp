@@ -54,5 +54,6 @@ int main()
 			break;
 		}
 	}
+	cout << "zjygod" << endl;
 	return 0;
 }
